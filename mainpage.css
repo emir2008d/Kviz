@@ -57,3 +57,33 @@
     opacity: 0.5;
     text-align: justify;
 }
+
+.button-main {
+    height: 90px;
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-style-main {
+    background-color: #2559D2;
+    color: white;
+    border: 1px solid #2559D2;
+    width: 384px;
+    height: 71px;
+    font-style: Steradian TRIAL;
+    font-weight: bold;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+.small-text-main {
+    height: 80px;
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.small-text-main p {
+    font-style: Steradian TRIAL;
+    opacity: 0.5;
+}
